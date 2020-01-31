@@ -1,0 +1,17 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/alex/Documents/Projects/core-service
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/spt16/tempo_validade_pedidos_solicitados
+> git rev-parse --symbolic-full-name feature/spt16/tempo_validade_pedidos_solicitados@{u}
+> git rev-list --left-right feature/spt16/tempo_validade_pedidos_solicitados...refs/remotes/origin/feature/spt16/tempo_validade_pedidos_solicitados
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :.env
+> git show :.gitignore

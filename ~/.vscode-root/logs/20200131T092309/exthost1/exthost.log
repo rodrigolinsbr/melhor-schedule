@@ -1,0 +1,369 @@
+[2020-01-31 09:23:11.337] [exthost] [info] extension host started
+[2020-01-31 09:23:11.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-31 09:23:11.372] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-31 09:23:11.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-31 09:23:11.379] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-31 09:23:11.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-31 09:23:11.406] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-31 09:23:11.458] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-31 09:23:11.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-31 09:23:11.462] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-31 09:23:11.462] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-31 09:23:11.464] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-31 09:23:11.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-31 09:23:11.485] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-31 09:23:11.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/dbaeumer.vscode-eslint-2.0.15/client/out/extension
+[2020-01-31 09:23:11.504] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-31 09:23:11.504] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-31 09:23:11.564] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-31 09:23:11.564] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-01-31 09:23:11.659] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2020-01-31 09:23:11.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/mhutchie.git-graph-1.21.0/out/extension.js
+[2020-01-31 09:23:11.680] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-31 09:23:11.680] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-31 09:23:11.735] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2020-01-31 09:23:11.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2020-01-31 09:23:11.788] [exthost] [info] eager extensions activated
+[2020-01-31 09:23:12.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-01-31 09:23:12.174] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-01-31 09:23:16.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-31 09:23:16.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-01-31 09:23:16.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-31 09:23:16.548] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-01-31 09:23:16.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-31 09:23:16.583] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-01-31 09:23:58.670] [exthost] [info] extension host started
+[2020-01-31 09:23:58.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-31 09:23:58.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-31 09:23:58.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-31 09:23:58.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-31 09:23:58.783] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-31 09:23:58.783] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-31 09:23:58.826] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-31 09:23:58.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-31 09:23:58.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-31 09:23:58.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-31 09:23:58.831] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-31 09:23:58.831] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-31 09:23:58.847] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-31 09:23:58.847] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/dbaeumer.vscode-eslint-2.0.15/client/out/extension
+[2020-01-31 09:23:58.852] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-31 09:23:58.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-31 09:23:58.874] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-31 09:23:58.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-01-31 09:23:58.913] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2020-01-31 09:23:58.913] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/mhutchie.git-graph-1.21.0/out/extension.js
+[2020-01-31 09:23:58.923] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-31 09:23:58.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-31 09:23:58.944] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2020-01-31 09:23:58.944] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2020-01-31 09:23:58.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-01-31 09:23:58.969] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-01-31 09:23:59.057] [exthost] [info] eager extensions activated
+[2020-01-31 09:26:34.807] [exthost] [info] extension host started
+[2020-01-31 09:26:34.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-31 09:26:34.821] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-31 09:26:34.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-31 09:26:34.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-31 09:26:34.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-31 09:26:34.835] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-31 09:26:34.883] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-31 09:26:34.883] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-31 09:26:34.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-31 09:26:34.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-31 09:26:34.888] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-31 09:26:34.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-31 09:26:34.905] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-31 09:26:34.905] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/dbaeumer.vscode-eslint-2.0.15/client/out/extension
+[2020-01-31 09:26:34.910] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-31 09:26:34.910] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-31 09:26:34.932] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-31 09:26:34.932] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-01-31 09:26:34.971] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2020-01-31 09:26:34.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/mhutchie.git-graph-1.21.0/out/extension.js
+[2020-01-31 09:26:34.982] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-31 09:26:34.982] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-31 09:26:35.003] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2020-01-31 09:26:35.003] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2020-01-31 09:26:35.029] [exthost] [info] eager extensions activated
+[2020-01-31 09:26:47.012] [exthost] [info] extension host started
+[2020-01-31 09:26:47.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-31 09:26:47.026] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-31 09:26:47.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-31 09:26:47.030] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-31 09:26:47.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-31 09:26:47.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-31 09:26:47.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-31 09:26:47.084] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-31 09:26:47.088] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-31 09:26:47.088] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-31 09:26:47.089] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-31 09:26:47.089] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-31 09:26:47.105] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-31 09:26:47.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/dbaeumer.vscode-eslint-2.0.15/client/out/extension
+[2020-01-31 09:26:47.110] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-31 09:26:47.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-31 09:26:47.132] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-31 09:26:47.132] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-01-31 09:26:47.173] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2020-01-31 09:26:47.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/mhutchie.git-graph-1.21.0/out/extension.js
+[2020-01-31 09:26:47.184] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-31 09:26:47.184] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-31 09:26:47.205] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2020-01-31 09:26:47.205] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2020-01-31 09:26:47.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-01-31 09:26:47.231] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-01-31 09:26:47.317] [exthost] [info] eager extensions activated
+[2020-01-31 09:26:50.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-01-31 09:26:50.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-01-31 09:27:07.779] [exthost] [info] extension host started
+[2020-01-31 09:27:07.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-31 09:27:07.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-31 09:27:07.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-31 09:27:07.797] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-31 09:27:07.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-31 09:27:07.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-31 09:27:07.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-31 09:27:07.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-31 09:27:07.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-31 09:27:07.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-31 09:27:07.857] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-31 09:27:07.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-31 09:27:07.873] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-31 09:27:07.873] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/dbaeumer.vscode-eslint-2.0.15/client/out/extension
+[2020-01-31 09:27:07.879] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-31 09:27:07.879] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-31 09:27:07.900] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-31 09:27:07.900] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-01-31 09:27:07.939] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2020-01-31 09:27:07.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/mhutchie.git-graph-1.21.0/out/extension.js
+[2020-01-31 09:27:07.950] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-31 09:27:07.950] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-31 09:27:07.971] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2020-01-31 09:27:07.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2020-01-31 09:27:07.995] [exthost] [info] eager extensions activated
+[2020-01-31 09:27:12.384] [exthost] [info] extension host started
+[2020-01-31 09:27:12.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-31 09:27:12.397] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-31 09:27:12.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-31 09:27:12.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-31 09:27:12.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-31 09:27:12.411] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-31 09:27:12.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-31 09:27:12.455] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-31 09:27:12.458] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-31 09:27:12.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-31 09:27:12.460] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-31 09:27:12.460] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-31 09:27:12.475] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-31 09:27:12.475] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/dbaeumer.vscode-eslint-2.0.15/client/out/extension
+[2020-01-31 09:27:12.480] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-31 09:27:12.480] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-31 09:27:12.502] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-31 09:27:12.502] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-01-31 09:27:12.541] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2020-01-31 09:27:12.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/mhutchie.git-graph-1.21.0/out/extension.js
+[2020-01-31 09:27:12.552] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-31 09:27:12.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-31 09:27:12.573] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2020-01-31 09:27:12.573] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/alex/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2020-01-31 09:27:12.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-01-31 09:27:12.598] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-01-31 09:27:12.686] [exthost] [info] eager extensions activated
+[2020-01-31 09:27:15.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-01-31 09:27:15.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-01-31 09:27:59.404] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-31 09:27:59.405] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.3)
+Debug Failure. False expression: Changes overlap
+Verbose Debug Information: {"pos":106,"end":623} and {"pos":266,"end":290}
+Error: Debug Failure. False expression: Changes overlap
+Verbose Debug Information: {"pos":106,"end":623} and {"pos":266,"end":290}
+    at _loop_10 (tsserver.js:119874:34)
+    at tsserver.js:119880:25
+    at Array.map (<anonymous>)
+    at Object.getTextChangesFromChanges (tsserver.js:119868:86)
+    at ChangeTracker.getChanges (tsserver.js:119838:45)
+    at Function.ChangeTracker.with (tsserver.js:119360:32)
+    at Object.getCodeActions (tsserver.js:122817:64)
+    at tsserver.js:120400:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120400:23)
+    at tsserver.js:131083:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getCodeFixesAtPosition (tsserver.js:131081:23)
+    at IOSession.Session.getCodeFixes (tsserver.js:140736:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139521:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-31 09:28:03.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-01-31 09:28:03.945] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-01-31 09:31:34.606] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-31 09:31:34.606] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.3)
+Debug Failure. False expression: Changes overlap
+Verbose Debug Information: {"pos":125,"end":643} and {"pos":285,"end":309}
+Error: Debug Failure. False expression: Changes overlap
+Verbose Debug Information: {"pos":125,"end":643} and {"pos":285,"end":309}
+    at _loop_10 (tsserver.js:119874:34)
+    at tsserver.js:119880:25
+    at Array.map (<anonymous>)
+    at Object.getTextChangesFromChanges (tsserver.js:119868:86)
+    at ChangeTracker.getChanges (tsserver.js:119838:45)
+    at Function.ChangeTracker.with (tsserver.js:119360:32)
+    at Object.getCodeActions (tsserver.js:122817:64)
+    at tsserver.js:120400:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120400:23)
+    at tsserver.js:131083:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getCodeFixesAtPosition (tsserver.js:131081:23)
+    at IOSession.Session.getCodeFixes (tsserver.js:140736:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139521:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-31 09:40:28.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-31 09:40:28.879] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-01-31 09:40:28.883] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-31 09:40:28.883] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-01-31 09:46:05.228] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-31 09:46:05.228] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.3)
+Debug Failure. False expression: Changes overlap
+Verbose Debug Information: {"pos":108,"end":656} and {"pos":268,"end":292}
+Error: Debug Failure. False expression: Changes overlap
+Verbose Debug Information: {"pos":108,"end":656} and {"pos":268,"end":292}
+    at _loop_10 (tsserver.js:119874:34)
+    at tsserver.js:119880:25
+    at Array.map (<anonymous>)
+    at Object.getTextChangesFromChanges (tsserver.js:119868:86)
+    at ChangeTracker.getChanges (tsserver.js:119838:45)
+    at Function.ChangeTracker.with (tsserver.js:119360:32)
+    at Object.getCodeActions (tsserver.js:122817:64)
+    at tsserver.js:120400:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120400:23)
+    at tsserver.js:131083:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getCodeFixesAtPosition (tsserver.js:131081:23)
+    at IOSession.Session.getCodeFixes (tsserver.js:140736:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139521:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-31 10:03:17.816] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-31 10:03:17.816] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.3)
+Debug Failure. False expression: Changes overlap
+Verbose Debug Information: {"pos":108,"end":656} and {"pos":268,"end":292}
+Error: Debug Failure. False expression: Changes overlap
+Verbose Debug Information: {"pos":108,"end":656} and {"pos":268,"end":292}
+    at _loop_10 (tsserver.js:119874:34)
+    at tsserver.js:119880:25
+    at Array.map (<anonymous>)
+    at Object.getTextChangesFromChanges (tsserver.js:119868:86)
+    at ChangeTracker.getChanges (tsserver.js:119838:45)
+    at Function.ChangeTracker.with (tsserver.js:119360:32)
+    at Object.getCodeActions (tsserver.js:122817:64)
+    at tsserver.js:120400:121
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getFixes (tsserver.js:120400:23)
+    at tsserver.js:131083:35
+    at Object.flatMap (tsserver.js:468:25)
+    at Object.getCodeFixesAtPosition (tsserver.js:131081:23)
+    at IOSession.Session.getCodeFixes (tsserver.js:140736:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139521:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-31 11:20:35.306] [exthost] [warning] INVALID text edit -> must have at least a label

@@ -1,0 +1,7 @@
+[2020-01-31 09:23:59.031] Starting Git Graph ...
+[2020-01-31 09:23:59.059] Using git (version: 2.17.1)
+[2020-01-31 09:23:59.062] Started Git Graph - Ready to use!
+[2020-01-31 09:23:59.063] Searching workspace for new repos ...
+[2020-01-31 09:23:59.068] > git rev-parse --show-toplevel
+[2020-01-31 09:23:59.098] Added new repo: /home/alex/Documents/Projects/core-service
+[2020-01-31 09:23:59.101] Completed searching workspace for new repos

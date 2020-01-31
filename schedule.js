@@ -3,12 +3,12 @@ var schedule = require("node-schedule");
    * Criacao de Jobs
    *
    */
-  var object = {};
+  global.object = {};
 (exports.recreateJobs = async () => {
   // var object = {};
 
   try {
-    return object;
+    return global.object;
   } catch (e) {}
 }),
   /**
