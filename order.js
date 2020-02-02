@@ -23,12 +23,19 @@ exports.new = async (id, time) => {
 
   global.object[id] = job;
   global.object.peDeZebrar = function(){
-    console.log('peDeCabra()')
+    
+    cancelOrder("123")
+
   }
   console.log(global.object)
 
 
   return true;
+}
+
+function cancelOrder(id){
+  console.log("Cancelando pedido "+id)
+  return true
 }
 
 // await scheduleCancelOrder.getJobs(object)
